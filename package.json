@@ -1,27 +1,33 @@
 {
-    "name": "cosmical",
-    "displayName": "Cosmical",
-    "description": "A dark theme with good contrast levels and beautiful colors aiming to enhance the experience using VSCode",
-    "icon": "icon.png",
-    "version": "0.0.1",
-    "publisher": "jorgemrtr",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/jorgemrtr/cosmical-theme"
-    },
-    "engines": {
-        "vscode": "^1.64.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Cosmical",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Cosmical-color-theme.json"
-            }
-        ]
-    }
+	"name": "cosmical",
+	"displayName": "Cosmical",
+	"description": "A dark theme with good contrast levels and beautiful colors aiming to enhance the experience using VSCode",
+	"icon": "icon.png",
+	"version": "0.0.1",
+	"publisher": "jorgemrtr",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jorgemrtr/cosmical-theme"
+	},
+	"engines": {
+		"vscode": "^1.64.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Cosmical",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Cosmical-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "d6edc0e5-86c9-418c-b506-9b0c876124f1",
+		"publisherDisplayName": "jorgemrtr",
+		"publisherId": "f8bedeec-5df7-4cfa-b07b-2dd8b4ef3db6",
+		"isPreReleaseVersion": false
+	}
 }
