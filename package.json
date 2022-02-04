@@ -2,6 +2,7 @@
     "name": "cosmical",
     "displayName": "Cosmical",
     "description": "A dark theme with good contrast levels and beautiful colors aiming to enhance the experience using VSCode",
+    "icon": "icon.png",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.64.0"
