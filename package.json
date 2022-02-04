@@ -4,6 +4,10 @@
     "description": "A dark theme with good contrast levels and beautiful colors aiming to enhance the experience using VSCode",
     "icon": "icon.png",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jorgemrtr/cosmical-theme"
+    },
     "engines": {
         "vscode": "^1.64.0"
     },
