@@ -48,10 +48,10 @@ This setting is now built in VSCode, I actually only turn on the option that dra
 
 #### Comparison:
 
--   Brackets Pairs Off  
-    ![React Dark](brackets-off.png)
--   Brackets Pairs On
-    ![React Dark](brackets-on.png)
+##### Brackets Pairs Off  
+![React Dark](brackets-off.png)
+##### Brackets Pairs On
+![React Dark](brackets-on.png)
 
 ## 3. Icon Pack: "Material Icon Theme"
 
