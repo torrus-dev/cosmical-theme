@@ -1,0 +1,21 @@
+{
+    "name": "cosmical",
+    "displayName": "Cosmical",
+    "description": "A dark theme with good contrast levels and beautiful colors aiming to enhance the experience using VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cosmical",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cosmical-color-theme.json"
+            }
+        ]
+    }
+}
