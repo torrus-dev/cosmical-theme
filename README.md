@@ -2,7 +2,7 @@
 
 Dark theme inspired by the material guidelines with a neutral background and nice blending colors
 
-![React Dark](dark-react-screenshot.png)
+![React Dark](https://github.com/jorgemrtr/cosmical-theme/blob/master/dark-react-screenshot.png)
 
 This theme offers:
 
