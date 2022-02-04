@@ -1,33 +1,33 @@
 {
-	"name": "cosmical",
-	"displayName": "Cosmical",
-	"description": "A dark theme with good contrast levels and beautiful colors aiming to enhance the experience using VSCode",
-	"icon": "icon.png",
-	"version": "0.0.1",
-	"publisher": "jorgemrtr",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/jorgemrtr/cosmical-theme"
-	},
-	"engines": {
-		"vscode": "^1.64.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Cosmical",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Cosmical-color-theme.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "d6edc0e5-86c9-418c-b506-9b0c876124f1",
-		"publisherDisplayName": "jorgemrtr",
-		"publisherId": "f8bedeec-5df7-4cfa-b07b-2dd8b4ef3db6",
-		"isPreReleaseVersion": false
-	}
+    "name": "cosmical",
+    "displayName": "Cosmical",
+    "description": "A Dark theme for those who want an alternative to all the bluish themes out there... Inspired by the dark+ default theme, it aims to improve contrast and provides a brand new color palette that blends in very nicely",
+    "icon": "icon.png",
+    "version": "0.0.2",
+    "publisher": "jorgemrtr",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jorgemrtr/cosmical-theme"
+    },
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cosmical",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cosmical-color-theme.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "id": "d6edc0e5-86c9-418c-b506-9b0c876124f1",
+        "publisherDisplayName": "jorgemrtr",
+        "publisherId": "f8bedeec-5df7-4cfa-b07b-2dd8b4ef3db6",
+        "isPreReleaseVersion": false
+    }
 }
