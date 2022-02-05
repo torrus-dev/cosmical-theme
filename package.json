@@ -3,7 +3,7 @@
     "displayName": "Cosmical",
     "description": "A Dark theme for those who want an alternative to all the bluish themes out there... Inspired by the dark+ default theme, it aims to improve contrast and provides a brand new color palette that blends in very nicely",
     "icon": "icon.png",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "jorgemrtr",
     "repository": {
         "type": "git",
