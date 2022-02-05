@@ -56,6 +56,12 @@ I feel like "JetBrains Mono" makes reading code a lot more nicer than the defaul
 "editor.fontFamily": "'JetBrains Mono', 'Consolas', 'monospace'",
 ```
 
+It also comes with ligatures that can make you code more aesthetic but can be confusing, they come disabled by default in VSCode
+```
+"editor.fontLigatures": true,``
+```
+
+
 ## 3. Icon Pack: "Material Icon Theme"
 
 My recommendation for icon pack is "Material Icon Theme" by Philipp Kief.
