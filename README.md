@@ -4,6 +4,7 @@ A Dark theme for those who want an alternative to all the bluish themes out ther
 
 It will make you feel like you are an astronaut coding in space! 
 
+### Installing
 #### Get it now from the [VSCode marketplace](https://marketplace.visualstudio.com/items?itemName=jorgemrtr.cosmical)!
 
 ![React Dark](dark-react-screenshot.png)
