@@ -1,9 +1,9 @@
 {
     "name": "cosmical",
     "displayName": "Cosmical",
-    "description": "A Dark theme for those who want an alternative to all the bluish themes out there... Inspired by the dark+ default theme, it aims to improve contrast and provides a brand new color palette that blends in very nicely",
+    "description": "A Space-inspired Dark theme for those who want an alternative to all the bluish themes out there... This theme balances the use of contrast and color to make the different code elements more distinguishable, following a hierarchy of importance. It also comes with a carefully picked color palette that blends in very nicely.",
     "icon": "icon.png",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "jorgemrtr",
     "repository": {
         "type": "git",
@@ -14,6 +14,14 @@
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Cosmical",
+        "Space Theme",
+        "Cosmos",
+        "Astronaut"
     ],
     "contributes": {
         "themes": [
