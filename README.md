@@ -82,7 +82,7 @@ I feel like "JetBrains Mono" makes reading code a lot more nicer than the defaul
 It also comes with ligatures that can make you code more aesthetic but can be confusing, they come disabled by default in VSCode
 
 ```
-"editor.fontLigatures": true,``
+"editor.fontLigatures": true,
 ```
 
 <br>
