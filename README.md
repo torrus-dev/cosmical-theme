@@ -25,6 +25,8 @@ Click on "Install" and "Set Color theme"
 -   The different parts of the code can be distinguished by color and contrast following an hierarchy of importance.
 -   To help the user, this theme follows its own coloring pattern across different file formats.
 
+![Overall Coloring Pattern](coloring-pattern.png)
+
 <br>
 
 ## Background
