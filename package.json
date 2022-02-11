@@ -3,7 +3,7 @@
     "displayName": "Cosmical",
     "description": "A Space-inspired Dark theme for those who want an alternative to all the bluish themes out there... This theme balances the use of contrast and color to make the different code elements more distinguishable, following a hierarchy of importance. It also comes with a carefully picked color palette that blends in very nicely.",
     "icon": "icon.png",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "publisher": "jorgemrtr",
     "repository": {
         "type": "git",
