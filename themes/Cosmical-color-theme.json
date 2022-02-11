@@ -86,14 +86,14 @@
                 "variable.other.object"
             ],
             "settings": {
-                "foreground": "#9CDCFE"
+                "foreground": "#9CDCFE",
+                "fontStyle": ""
             }
         },
         {
             "scope": ["variable.parameter"],
             "settings": {
-                "foreground": "#9CDCFE",
-                "fontStyle": "italic"
+                "foreground": "#9CDCFE"
             }
         },
         {
@@ -144,13 +144,15 @@
         {
             "scope": ["support.type.property-name", "meta.object-literal.key"],
             "settings": {
-                "foreground": "#9CDCFE"
+                "foreground": "#9CDCFE",
+                "fontStyle": ""
             }
         },
         {
             "scope": "string",
             "settings": {
-                "foreground": "#ECC58D"
+                "foreground": "#ECC58D",
+                "fontStyle": ""
             }
         },
         /* 
@@ -217,7 +219,8 @@
                 "keyword.operator.combinator"
             ],
             "settings": {
-                "foreground": "#c0c0c0"
+                "foreground": "#c0c0c0",
+                "fontStyle": ""
             }
         },
         {
