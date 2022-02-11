@@ -36,7 +36,6 @@ Click on "Install" and "Set Color theme"
 -   Provides a good amount of contrast following accessibility guidelines without being too high contrast.
 
 <br>
-<br>
 
 # Recomended settings (Optional)
 
@@ -98,12 +97,17 @@ I like to turn down saturation a bit so it isn't too distracting:
 ```
 
 <br>
-<br>
 
-# Background and Contributing
+# Background story
 
 It started when I was looking for a theme to stick with in my VSCode. After trying a lot of themes from the marketplace, I always came back to the default Dark+, everything else felt weird. So I decided to do some minor tweaking to the theme in the settings, starting with the backgrounds and other UI elements. I continued tweaking it till it wasn't Dark+ anymore.
 
 After reading [Creating a VS Code Theme - CSS tricks](https://css-tricks.com/creating-a-vs-code-theme/) last week, I decided to create my own theme and publish it. It's heavily influenced by Dark+ but with a new color palette and some major changes inspired by other themes.
 
-This is my first theme release and it's only tested for Javascript, React, HTML, CSS. If you want to contribute, please check the github repo: https://github.com/jorgemrtr/cosmical-theme
+<br>
+
+# Contributing
+
+This is my first theme release and it's only tested for Javascript, React, HTML, CSS.
+
+Feedback is appreciated! If you want to contribute, please check the github repo: https://github.com/jorgemrtr/cosmical-theme
