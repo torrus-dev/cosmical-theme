@@ -25,8 +25,8 @@
         "editor.selectionBackground": "#303030",
         "editor.selectionHighlightBackground": "#303030",
         "editorBracketHighlight.foreground1": "#CC9DEC",
-        "editorBracketHighlight.foreground2": "#A191F3",
-        "editorBracketHighlight.foreground3": "#60A4EC",
+        "editorBracketHighlight.foreground2": "#AC9EF5",
+        "editorBracketHighlight.foreground3": "#70A9E5",
         "editorGroup.border": "#404040",
         "editorGroup.dropBackground": "#40404060",
         "editorIndentGuide.activeBackground": "#707070",
@@ -171,7 +171,7 @@
                 "variable.other.global.php"
             ],
             "settings": {
-                "foreground": "#60A4EC"
+                "foreground": "#70A9E5"
             }
         },
         {
@@ -184,7 +184,7 @@
                 "keyword.operator.new"
             ],
             "settings": {
-                "foreground": "#A191F3",
+                "foreground": "#AC9EF5",
                 "fontStyle": "italic"
             }
         },
@@ -235,6 +235,12 @@
                 "foreground": "#808080"
             }
         },
+        {
+            "scope": "comment",
+            "settings": {
+                "fontStyle": "italic"
+            }
+        },
         /* 
         CSS
         -------
@@ -248,7 +254,7 @@
         {
             "scope": "keyword.other.important.css",
             "settings": {
-                "foreground": "#A191F3"
+                "foreground": "#AC9EF5"
             }
         },
         {
@@ -330,7 +336,7 @@
         {
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#60A4EC"
+                "foreground": "#70A9E5"
             }
         },
         {
