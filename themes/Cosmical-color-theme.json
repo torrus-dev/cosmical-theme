@@ -357,6 +357,31 @@
         -------
         */
         {
+            "scope": [
+                "punctuation.definition.list.begin",
+                "punctuation.definition.heading",
+                "punctuation.definition.bold",
+                "punctuation.definition.italic",
+                "punctuation.definition.raw"
+            ],
+            "settings": {
+                "foreground": "#70A9E5"
+            }
+        },
+        {
+            "scope": "heading",
+            "settings": {
+                "foreground": "#EFC58A",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "markup.underline.link",
+            "settings": {
+                "foreground": "#99DCFF"
+            }
+        },
+        {
             "scope": "markup.bold",
             "settings": {
                 "fontStyle": "bold"
@@ -372,13 +397,6 @@
             "scope": "markup.underline",
             "settings": {
                 "fontStyle": "underline"
-            }
-        },
-        {
-            "scope": "heading",
-            "settings": {
-                "foreground": "#99DCFF",
-                "fontStyle": "bold"
             }
         }
     ]
