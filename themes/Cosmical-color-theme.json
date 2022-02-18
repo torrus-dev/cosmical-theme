@@ -2,6 +2,7 @@
     "name": "Cosmical",
     "type": "dark",
     "semanticHighlighting": true,
+    "semanticHighlighting": false,
     "colors": {
         /* 
         Editor 
@@ -114,7 +115,16 @@
         "list.hoverForeground": "#ddd",
         "list.focusBackground": "#323232",
         "list.focusForeground": "#ddd",
-        "list.dropBackground": "#222222"
+        "list.dropBackground": "#222222",
+
+        "terminal.ansiYellow": "#EFC58A",
+        "terminal.ansiMagenta": "#CC9DEC",
+        "terminal.ansiGreen": "#A3D789",
+        "terminal.ansiBlue": "#70A9E5",
+        "terminal.ansiCyan": "#99DCFF",
+        "terminal.ansiWhite": "#ddd",
+        "terminal.ansiRed": "#F3836D",
+        "terminal.ansiBlack": "#121212"
     },
     "tokenColors": [
         /* 
@@ -218,6 +228,7 @@
         },
         {
             "scope": [
+                "keyword",
                 "keyword.control",
                 "storage.modifier.async",
                 "storage.type.function",
