@@ -135,7 +135,8 @@
                 "variable.other.object",
                 "variable.other.property",
                 "variable.other.readwrite",
-                "variable.parameter"
+                "variable.parameter",
+                "support.variable.property"
             ],
             "settings": {
                 "foreground": "#99DCFF",
@@ -162,7 +163,8 @@
             "scope": [
                 "entity.name.function",
                 "meta.function-call",
-                "meta.function"
+                "meta.function",
+                "support.function"
             ],
             "settings": {
                 "foreground": "#9BD180",
@@ -206,7 +208,7 @@
         {
             "scope": "constant.numeric",
             "settings": {
-                "foreground": "#E8D67D"
+                "foreground": "#E2D97E"
             }
         },
         {
@@ -222,7 +224,8 @@
                 "variable.other.global.php"
             ],
             "settings": {
-                "foreground": "#65A4E7"
+                "foreground": "#65A4E7",
+                "fontStyle": ""
             }
         },
         {
@@ -384,7 +387,7 @@
             }
         },
         {
-            "scope": "entity.name.type.class",
+            "scope": ["entity.name.type.class", "entity.name.type"],
             "settings": {
                 "foreground": "#85DBB0",
                 "fontStyle": ""
@@ -439,7 +442,7 @@
         {
             "scope": "markup.underline.link",
             "settings": {
-                "foreground": "#9BD180"
+                "foreground": "#99DCFF"
             }
         },
         {
