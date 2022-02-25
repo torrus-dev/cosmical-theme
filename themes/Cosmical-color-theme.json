@@ -18,7 +18,7 @@
         "editorLineNumber.activeForeground": "#ddd",
         "editorLineNumber.foreground": "#666",
         /* Breadcrumb */
-        "breadcrumb.foreground": "#808080",
+        "breadcrumb.foreground": "#929292",
         "breadcrumbPicker.background": "#222222",
         /* Bracket highlight colors */
         "editorBracketHighlight.foreground1": "#CC9DEC",
@@ -256,6 +256,8 @@
                 "keyword.operator.bitwise",
                 "keyword.operator.combinator",
                 "keyword.operator.comparison",
+                "keyword.operator.decrement",
+                "keyword.operator.increment",
                 "keyword.operator.logical",
                 "keyword.operator.relational",
                 "keyword.operator.spread",
@@ -387,7 +389,11 @@
             }
         },
         {
-            "scope": ["entity.name.type.class", "entity.name.type"],
+            "scope": [
+                "entity.name.type.class",
+                "entity.name.type",
+                "variable.function"
+            ],
             "settings": {
                 "foreground": "#85DBB0",
                 "fontStyle": ""
