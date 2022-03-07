@@ -1,9 +1,10 @@
 # Cosmical Theme 👨🏼‍🚀🚀
 
-A Space-inspired **Dark theme** for those who want an alternative to all the bluish themes out there... This theme balances the use of contrast and color to make the different code elements more **distinguishable**, following a hierarchy of importance.  
-It also comes with a **carefully picked color palette** that blends in very nicely.
+A Space-inspired **Dark theme** for those who like the default Dark+ visuals. It comes with a neutral background and a **carefully picked color palette** that blends in very nicely.
 
-Cosmical is influenced by Dark+, aiming to be **an alternative for those who like the default dark look** while being a **completely new theme**, not just an upgrade.
+Cosmical creates it's **own visual language** by balancing the use of color and contrast to create a hierarchy of importance. This **coloring pattern** helps distinguish the code elements.
+
+It aims to be **an alternative for those who like the default dark look** while being a **completely new theme**, not just an upgrade.
 
 🌌 It will make you feel like you are an astronaut coding in space! 🌌
 
@@ -13,26 +14,45 @@ Cosmical is influenced by Dark+, aiming to be **an alternative for those who lik
 
 ## Installing
 
-#### Get it now from the [VSCode marketplace](https://marketplace.visualstudio.com/items?itemName=jorgemrtr.cosmical)!
+1. Click here: [Cosmical theme vscode martketplace](https://marketplace.visualstudio.com/items?itemName=jorgemrtr.cosmical) to visit the VSCode marketplace website.
+2. Clicking "Intall" will open VSCode and the Cosmical theme extension page.
+3. Click on "Install" and "Set Color theme".
 
-Click on "Install" and "Set Color theme"
+or
+
+1. Open **extensions** on the left side bar (`ctrl + shift + X` on Windows).
+2. Search for "Cosmical" in the input field and click on the extension.
+3. Click on "Install" and "Set Color theme".
 
 <br>
 
+# Features:
+
 ## Colors
 
--   A beautiful and well-thought color palette to provide amazing contrast and color distinction, making a nicely balanced theme.
--   The different parts of the code can be distinguished by color and contrast following a hierarchy of importance.
--   To help the user, this theme follows its own coloring pattern across different file formats.
-
-![Overall Coloring Pattern](coloring-pattern.png)
+- A beautiful and well-thought color palette to provide amazing contrast and color distinction, making a nicely balanced theme.
+- The primary colors are golden and blue
+- The different parts of the code can be distinguished by color and contrast following a hierarchy of importance.
+- To help the user, this theme follows its own coloring pattern across different file formats.
 
 ## Background
 
--   Neutral background following the material guidelines for dark themes.
--   Non-blueish background to improve sleep by decreasing blue-light exposure.
--   Provides a good amount of contrast following accessibility guidelines without being too high contrast.
+- Neutral background following the material guidelines for dark themes.
+- Non-blueish background to improve sleep by decreasing blue-light exposure.
+- Provides a good amount of contrast following accessibility guidelines without being too high contrast.
 
+## Visual language / Coloring pattern
+
+![Overall Coloring Pattern](coloring-pattern.png)
+
+As seen in the image above Cosmical uses a **coloring pattern** divided by groups: Golden, Blue and Neutral.
+To give you an example of this pattern in action, imagine a `.json` or `.css` file:
+
+- In the **Blue group** (purple, dark-blue, blue) is everything related to language, variable names, property names, keywords...
+- In the **Golden group** (orange, golden, yellow) is everything related to property values, strings, numbers...
+- In the **Neutral group** (green, violet) is everything that isn't in the other groups, things like selectors, function calls, language constants(null, true)
+
+This pattern is consistent across all the different file formats.
 <br>
 
 # Why it was created?

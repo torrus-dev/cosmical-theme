@@ -1,41 +1,35 @@
 {
-    "name": "cosmical",
-    "displayName": "Cosmical",
-    "description": "A Space-inspired Dark theme for those who want an alternative to all the bluish themes out there... This theme balances the use of contrast and color to make the different code elements more distinguishable, following a hierarchy of importance. It also comes with a carefully picked color palette that blends in very nicely.",
-    "icon": "icon.png",
-    "version": "0.4.0",
-    "publisher": "jorgemrtr",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/jorgemrtr/cosmical-theme"
-    },
-    "engines": {
-        "vscode": "^1.64.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "Theme",
-        "Dark Theme",
-        "Cosmical",
-        "Space Theme",
-        "Cosmos",
-        "Astronaut"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Cosmical",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Cosmical-color-theme.json"
-            }
-        ]
-    },
-    "__metadata": {
-        "id": "d6edc0e5-86c9-418c-b506-9b0c876124f1",
-        "publisherDisplayName": "jorgemrtr",
-        "publisherId": "f8bedeec-5df7-4cfa-b07b-2dd8b4ef3db6",
-        "isPreReleaseVersion": false
-    }
+  "name": "cosmical",
+  "displayName": "Cosmical",
+  "description": "A Space-inspired Dark theme for those who like the default Dark+ visuals. It comes with a neutral background and a carefully picked color palette that blends in very nicely.",
+  "icon": "icon.png",
+  "version": "0.5.0",
+  "publisher": "jorgemrtr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorgemrtr/cosmical-theme"
+  },
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Cosmical",
+    "Space Theme",
+    "Cosmos",
+    "Astronaut"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmical",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cosmical-color-theme.json"
+      }
+    ]
+  }
 }
