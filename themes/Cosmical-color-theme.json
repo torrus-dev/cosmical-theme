@@ -1,5 +1,6 @@
 {
   "name": "Cosmical",
+  "semanticHighlighting": true,
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
