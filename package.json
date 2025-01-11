@@ -29,7 +29,12 @@
         "label": "Cosmical",
         "uiTheme": "vs-dark",
         "path": "./themes/Cosmical-color-theme.json"
-      }
+      },
+			{
+				"label": "Cosmical (No Italics)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Cosmical-color-theme-no-italics-.json"
+			}
     ]
   }
 }
